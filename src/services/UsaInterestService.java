@@ -1,8 +1,8 @@
 package services;
 
-public class BrazilInterestService implements InterestService {
+public class UsaInterestService implements InterestService {
 
-	private double interestRate = 2.0;
+	private double interestRate = 1.0;
 
 //-----------------------------------------------------------------------------------------------------
 
